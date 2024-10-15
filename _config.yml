@@ -15,12 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 title: 6th Hinckley Scouts Blog
 email: contact@6thhinckleyscouts.org.uk
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
+    A summary of current news and events for the 6th Hinckley Scouts group.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.6thhinckleyscouts.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
+# twitter_username: ur10ges
+# github_username: suridge
+facebook_username: groups/747019725470881
+show_excerpts: true
 
 # Build settings
 markdown: kramdown

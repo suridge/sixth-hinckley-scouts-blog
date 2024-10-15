@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Teddy Bear Wrap!"
-date:   2024-11-21
-tags: beavers cubs scouts fund-raising volunteering
+title:  "21-11-24: Teddy Bear Wrap!"
+tags: beavers, cubs, scouts, fund-raising, volunterring
+date:   2024-10-14
+excerpt_separator: <!--end-summary-->
 ---
+
 The 2024 Christmas lights switch-on and Tin Hat Fair in Hinckley, will take place 
-on Friday, November 22 2024. We have a fun raising stall where we will be running 
+on Friday, November 22 2024. We have a fund raising stall where we will be running 
 the ever popular 'Teddy Tombola', and we need your help! 
+<!--end-summary-->
 
 On **Thursday 21st November 2024** we will be wrapping the Teddy's that we have 
 collected and washed over the last few weeks, getting them ready for the following night. 
@@ -19,4 +22,4 @@ we are looking for volunteers to help run the stall?
 
 Anything else to add? 
 
-Any queries, please contact fund-raising@6thhinckleyscouts.org.uk
+Any queries, please contact [fund-raising@6thhinckleyscouts.org.uk](mailto://fund-raising@6thhinckleyscouts.org.uk)
