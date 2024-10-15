@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 6th Hinckley Scouts Blog
+title: 6th Hinckley Scouts News and Events
 email: contact@6thhinckleyscouts.org.uk
 description: >- 
     A summary of current news and events for the 6th Hinckley Scouts group.
